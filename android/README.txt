@@ -1,0 +1,1 @@
+Android project placeholder. Use `flutter create .` to generate full project.
